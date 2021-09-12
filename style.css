@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    height: 100vh;
+}
+h2{
+    color: black;
+}
+a.IndexLink{
+    color: black;
+}
+a.nav-link{
+    color: black;
+}
